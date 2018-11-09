@@ -1,0 +1,17 @@
+{
+  "name": "vk-connect-scratch",
+  "version": "1.0.0",
+  "description": "VK Connnect from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k-egor-smirnov",
+  "license": "MIT",
+  "dependencies": {
+    "@vkontakte/vkui-connect": "^1.1.2"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.3"
+  }
+}
